@@ -144,5 +144,9 @@ May-June 2025: Digitization of selected materials through scanning or photograph
 - Stratton, David H. Spokane & the Inland Empire: An Interior Pacific Northwest Anthology. Rev. ed. Pullman, Wash.: Washington State University Press, 2005.
 - Wiebe, Robert H. The Search for Order, 1877–1920. The Making of America. New York: Hill and Wang, 1968.
 
-    * The term “aspirational metropolis” credited to Dr. Caitlin Cieslik-Miskimen, who I am working with on a directed study exploring the history of Public Relations in America.
+<br>
+
+* The term “aspirational metropolis” credited to Dr. Caitlin Cieslik-Miskimen, who I am working with on a directed study exploring the history of Public Relations in America.
+
+<br>
 

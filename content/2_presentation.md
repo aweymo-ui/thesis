@@ -87,3 +87,5 @@ Additionally, Pamela Walker Lairdâ€™s *Advertising Progress* and Daniel Robertâ€
 <br>
 
 In conclusion, I hope this presentation has demonstrated the scholarly gaps this study would address in advertising history and the unique opportunity to study the formation of modern American advertising alongside the development of an aspirational metropolis in the Inland Empire. 
+
+<br>
