@@ -4,15 +4,9 @@ layout: page
 gallery: true
 ---
 
-{% include gallery-figure.html img="py_ob_banner.gif" alt="Animated gif of the title of this paper with a visualization of the Obsidian graph view adding and subtracting different areas of a vault" width="100%" %}
+{% include gallery-figure.html img="banner.png" alt="Poster for reading Andrew Weymouth, Thesis Prospectus, The Development of Commercial Imagery in the Inland Empire through the Gilded Age and Progressive Era with an image of building in New York City covered in many billboards from 1915" width="100%" %}
 
-[Book Splitter Python Tool](https://github.com/Scholarly-Projects/book_splitter){:target="_blank" rel="noopener"} 
-
-[Annotation Extraction Python Tool](https://github.com/Scholarly-Projects/annotation_extraction){:target="_blank" rel="noopener"}
-
-## Overview
-
-This workshop will provide a detailed method for making connections across large text research collections, creating custom tags and visualizing your research from a bird's-eye perspective. This workshop will provide a complete walkthrough of how to utilize these tools and methods regardless of your previous technical experience requiring no coding beyond `#` and `/`. This workflow utilizes either open source materials or platforms that are free of cost to all University of Idaho students and faculty.
+[Slide Deck](https://indd.adobe.com/view/130a6882-3384-41e3-8049-3812bceef886){:target="_blank" rel="noopener"} 
 
 {% include toc.html %}
 
