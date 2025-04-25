@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en" class="h-100">
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<title>Obsidian | Using Python Tools and Obsidian to Connect and Visualize Research</title>
+<meta name="description" content="Annotation extraction tool for tagging and visualizing groups of literature in markdown.">
+<meta name="keywords" content="">
+<meta name="author" content="Andrew Weymouth">
+<link rel="icon" type="image/png" href="http://localhost:4000/favicon.png">
+
+<!--
+  _      __         __        __           ______               __     __     
+ | | /| / /__  ____/ /__ ___ / /  ___  ___/_  __/__ __ _  ___  / /__ _/ /____ 
+ | |/ |/ / _ \/ __/  '_/(_-</ _ \/ _ \/ _ \/ / / -_)  ' \/ _ \/ / _ `/ __/ -_)
+ |__/|__/\___/_/ /_/\_\/___/_//_/\___/ .__/_/  \__/_/_/_/ .__/_/\_,_/\__/\__/ 
+                                    /_/                /_/                    
+
+    built with workshop-template-b, evanwill, https://github.com/evanwill/workshop-template-b
+--> 
+   
+<!-- Open Graph meta -->
+<meta property="og:title" content="Obsidian | Using Python Tools and Obsidian to Connect and Visualize Research" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="Annotation extraction tool for tagging and visualizing groups of literature in markdown." />
+<meta property="og:image" content="http://localhost:4000/images/py_ob_banner.gif" />
+<meta property="og:site_name" content="Using Python Tools and Obsidian to Connect and Visualize Research" />
+<meta property="og:url" content="http://localhost:4000/content/6_obsidian.html" />
+<meta property="og:locale" content="en_US" />
+<!-- schema.org JSON-LD -->
+<script type="application/ld+json">{ "@context":"http://schema.org", "@type":"WebPage", "headline":"Obsidian | Using Python Tools and Obsidian to Connect and Visualize Research", "author": { "@type":"Person", "name":"Andrew Weymouth"}, "description":"Annotation extraction tool for tagging and visualizing groups of literature in markdown.", "image": "http://localhost:4000/images/py_ob_banner.gif", "url":"http://localhost:4000/content/6_obsidian.html" }</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anta&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="/assets/lib/spotlight.min.css">
+<link rel="stylesheet" href="/assets/lib/bootstrap.min.css" type="text/css">
+<link rel="stylesheet" href="/assets/css/styles.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap" rel="stylesheet">
+
+
+<!-- Last build date: 2025-02-19 -->
+  </head>
+
+  <body class="d-flex flex-column h-100">
+    <div id="skip-to-content"><a href="#maincontent">Skip to main content</a></div>
+    <header>
+    <nav class="navbar navbar-light pb-lg-0 border-bottom" style="background-color: #F0F8FF;">
+    <div class="container">
+        <h1 class="navbar-brand" style="white-space: normal;"><a href="/">
+            
+            Using Python Tools and Obsidian to Connect and Visualize Research
+        </a></h1>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav" aria-controls="mainNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse justify-content-end" id="mainNav">
+            <ul class="navbar-nav nav-tabs justify-content-end">
+            
+                <li class="nav-item">
+                    <a class="nav-link p-3 h-100" href="/content/1_intro.html">
+                        
+                            Introduction
+                        
+                    </a>
+                </li>
+            
+                <li class="nav-item">
+                    <a class="nav-link p-3 h-100" href="/content/2_starting.html">
+                        
+                            Getting Started
+                        
+                    </a>
+                </li>
+            
+                <li class="nav-item">
+                    <a class="nav-link p-3 h-100" href="/content/3_prep.html">
+                        
+                            Preparation
+                        
+                    </a>
+                </li>
+            
+                <li class="nav-item">
+                    <a class="nav-link p-3 h-100" href="/content/4_annotation.html">
+                        
+                            Annotation Extraction Tool
+                        
+                    </a>
+                </li>
+            
+                <li class="nav-item">
+                    <a class="nav-link p-3 h-100" href="/content/5_python.html">
+                        
+                            Running Python
+                        
+                    </a>
+                </li>
+            
+                <li class="nav-item">
+                    <a class="nav-link active p-3 h-100" href="/content/6_obsidian.html">
+                        
+                            Obsidian
+                        
+                    </a>
+                </li>
+            
+                <li class="nav-item">
+                    <a class="nav-link p-3 h-100" href="/content/7_vis.html">
+                        
+                            Visualization
+                        
+                    </a>
+                </li>
+            
+                <li class="nav-item">
+                    <a class="nav-link p-3 h-100" href="/content/8_appendix.html">
+                        
+                            Notes and Appendix
+                        
+                    </a>
+                </li>
+            
+            </ul>  
+        </div>
+    </div>
+</nav>
+
+    </header>
+
+    <main id="maincontent" role="main" aria-label="Content" class="flex-shrink-0">
+      
+      <div class="container my-4">
+<h1>Obsidian</h1>
+
+<div class="ms-5 mb-3 border-bottom">
+    </div>
+    
+<div class="my-4">
+
+<figure class="figure d-block text-center p-3">
+    <a class="spotlight" href="/images/py_ob_18.gif"><img data-src="/images/py_ob_18.gif" alt="Demo of Annotation Extraction Tool" style="width:100%;" class="figure-img img-fluid lazyload" /></a><figcaption class="figure-caption">Demo of Annotation Extraction Tool, Showing Processed Markdown Files Dropped into Obsidian</figcaption></figure>
+
+<p><strong>Now that we have our two markdown files</strong>, open your Obsidian vault and create a folder for the book or document you just processed and drop these two inside.</p>
+
+<p>While there are more complicated ways to search for things in Obsidian, the only elements that we really need to use this method are searching a <code class="language-plaintext highlighter-rouge">path</code> and for <code class="language-plaintext highlighter-rouge">tags</code>. Paths are simply refining results by how you have organized your folders.</p>
+
+<p>For example, if you have arranged things like the image below:</p>
+
+<figure class="figure d-block text-center p-3">
+    <a class="spotlight" href="/images/py_ob_19.jpeg"><img data-src="/images/py_ob_19.jpeg" alt="Snapshot of a basic file structure in Obsidian" style="width:50%;" class="figure-img img-fluid lazyload" /></a><figcaption class="figure-caption">basic file structure in Obsidian</figcaption></figure>
+
+<p>By entering “path:” into the search bar on the left side of the screen, you can choose to either see only HIST 502 or HIST 514 and all of their associated texts or individual texts in either the graph or document view. Additionally, if you type “tag:” you will now be able to see the six tags that we’ve generated from the highlighted text by having the python tool insert a hashtag in front of each of these categories, which is how these are denoted in Obsidian.</p>
+
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
+<p><br /></p>
+
+<h3 id="review-and-detailed-tagging-process">Review and Detailed Tagging Process</h3>
+
+<p><strong>While you can do detailed tagging in either file</strong>, I’ve found that this process makes the most sense in the chronological export for me.Whichever one you choose to do detailed tagging on, think of this as your primary notes document moving forward.</p>
+
+<figure class="figure d-block text-center p-3">
+    <a class="spotlight" href="/images/py_ob_20.gif"><img data-src="/images/py_ob_20.gif" alt="Demo Detailed Tagging Process" style="width:100%;" class="figure-img img-fluid lazyload" /></a><figcaption class="figure-caption">Demo Detailed Tagging Process, Including Obsidian Dropdown View of Preexisting Tags</figcaption></figure>
+
+<p>At this point in your research, you’ve read this once and highlighted section based on category, while you are reviewing these notes again take a moment to reassess the initial tags (perhaps an #important passage is actually a #general note or the reverse) and also create new tags. Maybe an #important passage is also indicative of #class-anxieties or #shaping-narratives. Maybe a #quote is indicative of a larger theme around #labor-organization that runs throughout the book and you would like to see all of these excerpts together at a glance? Note that tags need to be connected by dashes or underscores if you want to use multiple words. You can also create sub-tags to create look at different elements under the same umbrella by putting a dash after the tag, such as #author/thesis and #author/methodology.</p>
+
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
+
+<p><strong>Tagging is an iterative and subjective process</strong>. You may find that throughout the course of your research, the name of the tag may shift as you think about that subject differently. Four or five tags may merge into one as you begin to identify major themes that emerge across the collection. During this process, I find it helpful to expand the panel on the right side of the interface and quickly review tags before reviewing a new work to remind myself of an expanding list of tags and connect them to other work.</p>
+
+<p>Through this review and detailed tagging exercise, I’ve found that it taps into an active and creative engagement in the learning process, adding a layer of comprehension and a bird’s eye view of a complex set of texts. This leads us to the visualization!</p>
+
+
+
+</div>
+
+</div>
+      
+    </main>
+
+    <footer class="site-footer bg-light-blue mt-auto">
+  <div class="container">
+    <nav class="mt-3 mb-4">
+      <ul class="nav nav-pills nav-fill">
+        
+        <li class="nav-item"><a class="nav-link h3" href="/content/1_intro.html">Introduction</a></li>
+        
+        <li class="nav-item"><a class="nav-link h3" href="/content/2_starting.html">Getting Started</a></li>
+        
+        <li class="nav-item"><a class="nav-link h3" href="/content/3_prep.html">Preparation</a></li>
+        
+        <li class="nav-item"><a class="nav-link h3" href="/content/4_annotation.html">Annotation Extraction Tool</a></li>
+        
+        <li class="nav-item"><a class="nav-link h3" href="/content/5_python.html">Running Python</a></li>
+        
+        <li class="nav-item"><a class="nav-link h3 active" href="/content/6_obsidian.html">Obsidian</a></li>
+        
+        <li class="nav-item"><a class="nav-link h3" href="/content/7_vis.html">Visualization</a></li>
+        
+        <li class="nav-item"><a class="nav-link h3" href="/content/8_appendix.html">Notes and Appendix</a></li>
+        
+      </ul>
+    </nav>
+    <div class="row align-items-center pb-5">
+        <div id="footer-title" class="col-md">
+          <a class="h5" href="/">Using Python Tools and Obsidian to Connect and Visualize Research</a>
+          <br>
+          <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0, </a> 2024 <a href="https://github.com/aweymo">Andrew Weymouth</a>
+        </div>
+        <div class="col-md">
+          
+          <script>
+            function site_search() {
+              var query = document.getElementById("site-search").value;
+              window.open("/search/index.html?q=" + encodeURIComponent(query), "_self" );
+            }
+          </script>
+          <form class="form-inline my-2 my-lg-0 float-end" role="search" id="search" onsubmit="site_search(); return false;">
+            <div class="input-group">
+              <input id="site-search" class="form-control" type="text" placeholder="Search" aria-label="Search box">
+              <div class="input-group-append">
+                <button class="btn btn-secondary" type="submit"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16"> <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"/> </svg><span class="visually-hidden">submit search</span></button>
+              </div>
+            </div>
+          </form>
+          
+        </div>
+    </div>
+  </div>
+</footer>
+
+    <!-- Bootstrap JS bundle -->
+<script src="/assets/lib/bootstrap.bundle.min.js"></script>
+<!-- load other optional js -->
+
+
+<script src="/assets/lib/lazysizes.min.js" async></script>
+<script src="/assets/lib/spotlight.min.js" defer></script>
+<script>
+    // When the user scrolls down from the top of the document, show the button
+    window.onscroll = function () {
+        if (document.body.scrollTop > 500 || document.documentElement.scrollTop > 500) {
+            document.getElementById("scroll-to-top").style.display = "block";
+            document.getElementById("scroll-to-top").style.color = "#00448c"; // Change button color to #00448c
+        } else {
+            document.getElementById("scroll-to-top").style.display = "none";
+        }
+    }
+    // scroll to top function
+    function scrollToTop() {
+        window.scroll({
+            top: 0, 
+            left: 0, 
+            behavior: 'smooth'
+        });
+    }
+</script>
+<button id="scroll-to-top" type="button" class="btn btn-link btn-lg" onclick="scrollToTop();" title="Back to Top" aria-label="Back to Top">
+    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-arrow-up-square" viewBox="0 0 16 16"> <path fill-rule="evenodd" d="M15 2a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V2zM0 2a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2zm8.5 9.5a.5.5 0 0 1-1 0V5.707L5.354 7.854a.5.5 0 1 1-.708-.708l3-3a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 5.707V11.5z"/> </svg>
+</button>
+
+
+
+  </body>
+
+</html>
