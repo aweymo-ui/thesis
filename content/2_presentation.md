@@ -27,7 +27,6 @@ Since then, I’ve become interested in the progression of early commercial imag
 <br>
 
 How did the iconographic turn in American commercial imagery reflect broader cultural, economic, and political transformations in the Inland Empire? Scaffolding this central question, I am interested in exploring ways in which this iconographic turn also involved brand permanence in favor of consumer interactivity, its power in allowing commercial images to be “read” by the consumer unconsciously and its contemporaneous emergence with the formation of national and international trade routes and a more diverse American citizenry. 
-Project Outline and Reasoning
 
 <br>
 <div class="symbol-container">
@@ -42,6 +41,8 @@ To engage with these questions, I am proposing a public-facing digital project o
     <p class="symbol">&#10042;</p>
 </div>
 <br>
+
+**So why this period, region and focus and why am I approaching this as a digital public history project as opposed to a traditional thesis?** 
 
 I believe that examining commercial imagery from the gilded age through the progressive era is a culturally insightful 40 year window. Some of the first materials that we would recognize as modern advertising emerged during this time, well before the concept of “branding” and public relations. Despite the incredible influence of advertising and public relations on American culture, historical analysis of these materials remains critically under researched in the academic landscape, particularly outside of the focus of New York and Chicago agencies. 
 
@@ -76,6 +77,8 @@ While certainly more associated with environmental history, William Cronon’s N
 <br>
 
 Roland Marchand’s, Advertising the American Dream and Creating the Corporate Soul also inform the way I will avoid speculating on how commercial imagery was received by consumers by remaining producer focused and backing up historical arguments with a diverse pool of multidisciplinary quantitative data. In both texts, Marchand contrasts commercial imagery against broader social and economic forces to tease out cultural and psychological findings and being mindful to not reach for a one to one cause and effect between advertising and social reaction to those images. Employing this approach, I am also mindful to avoid speculation and projection inherent to studying visual resources by focusing on the producer’s output and corporate legacy rather than the consumer’s hypothetical reaction to these materials.
+
+Additionally, Pamela Walker Laird’s Advertising Progress and Daniel Robert’s Courteous Capitalism have been instrumental to my understanding the advent of the public relations industry, its origins in avoiding government regulation and deflecting criticism from the consuming public. M.M. Manring’s Slave in a Box, Bonnie Christensen’s Red Lodge and the Mythic West and Jennifer M. Black’s Branding Trust have been guiding works in how historians can make new connections by examining contemporaneous trends in commercial imagery, cultural anxieties and advancements in the printing and packaging technology of these materials.
 
 <br>
 <div class="symbol-container">
