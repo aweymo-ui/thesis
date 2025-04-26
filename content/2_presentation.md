@@ -58,9 +58,11 @@ I am also interested in studying the region because of the extremely relevant ho
 
 Because of the visual and comparative nature of this thesis, I believe a public history digital exhibit for this material would not only be the most compelling format but also the most pedagogically intuitive. Readers will be able to view the objects from multiple angles and engage with high definition close ups of the material, which is vital to understanding the printing and packaging technology used in their creation and how they physically persisted or degraded over time. Additionally, the visualization section of the site will allow readers to contrast and compare materials along with their associated metadata and descriptions to engage with my thesis findings interactively. 
 
-Regarding who would benefit from this scholarship, I want to design the project so a diverse audience can engage with it. Academics in advertising and material history will have the knowledge base to use the text portion of the site, while readers with no formal training could use the visualization portion of the exhibit as a dynamic pedagogical tool. Additionally, the work will provide the Northwest Museum of Arts & Culture with hundreds of high-resolution photographs of undigitized portions of their collections and the site can be a showcase for innovative approaches at University of Idaho that are still rooted in traditional historical discipline.
+While I don’t want to take up too much space on the technical aspects of this project, I am happy to discuss my experience creating digital collections and digital scholarship exhibits for faculty and fellowship recipients, and the work we put into ensuring the preservation of these digital projects at the Center for Digital Inquiry and Learning at the U of I library.
 
-Methodologically, I am interested in approaching this project employing material history and structuralist approaches. Gunn and Faire’s *Research Methods for History* and Gerritsen and Riello’s *Writing Material Culture History* have been instructive overviews of the origins of material culture, it’s roots in archaeology and art history as well as its usefulness in reaching across disciplines to form new connections through quantitative approaches.
+Regarding who would benefit from this scholarship, I want to design the project so a diverse audience can engage with it. Academics in advertising and material history will have the knowledge base to use the text portion of the site, while readers with no formal training could use the visualization portion of the exhibit as a dynamic pedagogical tool. Additionally, the work will provide the Northwest Museum with hundreds of high-resolution photographs of undigitized portions of their collections and the site can be a showcase for innovative approaches at University of Idaho that are still rooted in traditional historical discipline.
+
+Methodologically, I am interested in examining this project employing material history and structuralist approaches. Gunn and Faire’s *Research Methods for History* and Gerritsen and Riello’s *Writing Material Culture History* have been instructive overviews of the origins of material culture, it’s roots in archaeology and art history as well as its usefulness in reaching across disciplines to form new connections through quantitative approaches.
 
 <br>
 <div class="symbol-container">
@@ -78,6 +80,12 @@ While certainly more associated with environmental history, William Cronon’s *
 
 Roland Marchand’s, *Advertising the American Dream* and *Creating the Corporate Soul* also inform the way I will avoid speculating on how commercial imagery was received by consumers by remaining producer focused and backing up historical arguments with a diverse pool of multidisciplinary quantitative data. In both texts, Marchand contrasts commercial imagery against broader social and economic forces to tease out cultural and psychological findings and being mindful to not reach for a one to one cause and effect between advertising and social reaction to those images. Employing this approach, I am also mindful to avoid speculation and projection inherent to studying visual resources by focusing on the producer’s output and corporate legacy rather than the consumer’s hypothetical reaction to these materials.
 
+<br>
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
+<br>
+
 Additionally, Pamela Walker Laird’s *Advertising Progress* and Daniel Robert’s *Courteous Capitalism* have been instrumental to my understanding the advent of the public relations industry, its origins in avoiding government regulation and deflecting criticism from the consuming public. M.M. Manring’s *Slave in a Box*, Bonnie Christensen’s *Red Lodge and the Mythic West* and Jennifer M. Black’s *Branding Trust* have been guiding works in how historians can make new connections by examining contemporaneous trends in commercial imagery, cultural anxieties and advancements in the printing and packaging technology of these materials.
 
 <br>
@@ -86,6 +94,6 @@ Additionally, Pamela Walker Laird’s *Advertising Progress* and Daniel Robert�
 </div>
 <br>
 
-In conclusion, I hope this presentation has demonstrated the scholarly gaps this study would address in advertising history and the unique opportunity to study the formation of modern American advertising alongside the development of an aspirational metropolis in the Inland Empire. 
+In conclusion, I hope this presentation has demonstrated the scholarly gaps this study would address in advertising history why a digital project would best serve the visual, material and comparative nature of the focus and the unique opportunity to study the formation of modern American advertising alongside the development of an aspirational metropolis in the Inland Empire. 
 
 <br>
