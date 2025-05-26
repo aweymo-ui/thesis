@@ -1,0 +1,19 @@
+# Ignore the generated _site directory
+_site/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Jekyll metadata file
+.jekyll-cache/
+.jekyll-metadata
+
+# Optional: ignore local development artifacts
+.sass-cache/
+.bundle/
+vendor/
+
+# Logs and temp files
+*.log
+*.tmp
