@@ -15,6 +15,14 @@ __This work was created as a scholarly output__ for a directed study called _His
 
 <br>
 
+# HIST 461: American Commercial Imagery, 1880-1920 
+
+<br>
+
+3 Semester-Hour Credits 
+
+<br>
+
 ## Course Introduction 
 
 <br>
