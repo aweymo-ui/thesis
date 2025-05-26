@@ -1,3 +1,3 @@
 # Thesis Prospectus
 
-University of Idaho History MA materials. _Andrew Weymouth, Spring 2025_.
+University of Idaho History MA thesis site. _Andrew Weymouth, Spring 2025_.
