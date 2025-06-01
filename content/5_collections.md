@@ -64,6 +64,27 @@ gallery: true
 - McCoy, Harold James, 1891-1956 [MS 58]
   - The collection sonsists of correspondence, maps and brochures rnging from a wide range of logging, land investment and banking interests.
 - Check Crescent Newspaper section under business name folder
+  - Store window display -- but past the timeframe you are looking for
+- Michel, Chris
+  - Letter describes Mechil's painting of Kettle Falls in Stevens County. Michel describes his frustrated attempts to exhibit and sell paintings at the Puyallup fair and the Seattle Art Museum. 
+- Miller-Dervant Co. 1893-?
+  - The collection includes examples of business cards and letterheads and some graphically interesting ephemeral items. 
+- Northwestern Mining Association 1895 [Ms 41]
+  - The collections includes general correspondence from the offices of the Northwest Mining Association
+- Shrader, Pearl Hutton, 1878-1964 [MsSc 151]
+  - The collection includes clippings, pamphlets and ephemeral items relating to the career of PHS. 
+- Northwestern and Pacific Hypotheek Bank, 1889-1971 [Ms 46]
+  - Looking at misc. papers and photographs rather than financial records. Found what was likely assembled by Fahey for Spokane and the Inland Empire but I don't think was included with the chapter.
+- Spokane Flour Mill, 1890-1972 [Ms 3]
+  - The major part of the collection consists of correspondence, 1903-1948
+  - Need to revisit Map folder Series XXXIII Poster Proofs when Anna is back to locate.
+- Weare, Clifford R., 1876-197? [MS 77]
+  - The collection contains correspondence, ephemeral items, bills and receipts largely from Weare's business activity in the 1920s and 1930s.
+    - Can't locate
+- Oversize Advertising Ephemera
+- Standard Ephemera files
+
+
 
 
 
