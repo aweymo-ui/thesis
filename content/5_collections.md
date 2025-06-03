@@ -81,6 +81,7 @@ gallery: true
 - Weare, Clifford R., 1876-197? [MS 77]
   - The collection contains correspondence, ephemeral items, bills and receipts largely from Weare's business activity in the 1920s and 1930s.
     - Can't locate
+    - Found on Tuesday
 - Oversize Advertising Ephemera
 - Standard Ephemera files
 
